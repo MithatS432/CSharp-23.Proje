@@ -1,2 +1,2 @@
-# CSharp-23.Proje
+# C#-23.Proje
 Kalıtım (Inheritance)1
